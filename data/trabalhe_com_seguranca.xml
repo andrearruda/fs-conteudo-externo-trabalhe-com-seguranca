@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<item>
+		<title>Mantenha a atenção</title>
+		<description>Não se distraia em suas atividades, observe todo ambiente e analise quais possíveis riscos existem ao seu redor. Esteja sempre alerta no local de trabalho, tenha atenção em locais mais críticos.</description>
+		<image>mantenha-a-atencao.jpg</image>
+	</item>
+	<item>
+		<title>Não se exponha ao risco</title>
+		<description>Acidentes acontecem frequentemente por plena imprudência do trabalhador. Se alguma situação próxima a você demonstra perigo iminente, não se aproxime.</description>
+		<image>nao-se-exponha-ao-risco.jpg</image>
+	</item>
+	<item>
+		<title>Acesso Restrito</title>
+		<description>Não acesse locais aos quais você não tem autorização prévia para estar ali.</description>
+		<image>acesso-restrito.jpg</image>
+	</item>
+	<item>
+		<title>Mantenha o local de trabalho organizado</title>
+		<description>Muitos acidentes ocorrem por desorganização da área de trabalho. Uma caixa deixada no caminho, uma ferramenta largada no chão, algum produto vazando, etc. Essas coisas que fazem a diferença.</description>
+		<image>mantenha-o-local-de-trabalho-organizado.jpg</image>
+	</item>
+	<item>
+		<title>Use Equipamentos de Proteção</title>
+		<description>Equipamentos de proteção são dispositivos utilizados pelo trabalhador (EPI) ou equipes (EPC) para protegê-los de riscos à saúde e segurança enquanto desenvolvem suas atividades profissionais. </description>
+		<image>use-equipamentos-de-protecao.jpg</image>
+	</item>
+	<item>
+		<title>A importância do uso de (EPI) e (EPC)</title>
+		<description>Você sabia que a falta deles é uma das principais causas de acidentes no trabalho, muitas vezes resultando até em mortes? Por isso, conscientize-se sobre a importância de seu uso.</description>
+		<image>a-importancia-do-uso-de-epi-e-epc.jpg</image>
+	</item>
+	<item>
+		<title>Não execute ações sem acompanhamento</title>
+		<description>Evite a realização de tarefas de forma isolada. Especialmente em áreas de risco, não execute ações sem acompanhamento e não permita que seus companheiros de trabalho façam isso.</description>
+		<image>nao-execute-acoes-sem-acompanhamento.jpg</image>
+	</item>
+	<item>
+		<title>Cuide de você e do seu amigo</title>
+		<description>A premissa para todos os serviços sempre deve ser um cuidando do outro, assim todos se mantêm seguros.</description>
+		<image>cuide-de-voce-e-do-seu-amigo.jpg</image>
+	</item>
+	<item>
+		<title>Comunique incidentes</title>
+		<description>Incidentes podem virar facilmente acidentes. Tudo que acontecer fora da normalidade em suas tarefas deve ser comunicado aos seus superiores. Sua experiência servirá de alerta a outras pessoas.</description>
+		<image>comunique-incidentes.jpg</image>
+	</item>
+	<item>
+		<title>Fique atento à postura corporal</title>
+		<description>Ao utilizar o maquinário, siga as normas de ergonomia recomendadas. Realize o trabalho com o corpo posicionado de forma confortável para evitar problemas crônicos.</description>
+		<image>fique-atento-a-postura-corporal.jpg</image>
+	</item>
+	<item>
+		<title>Faça intervalos regulares</title>
+		<description>Isso é útil em todas as funções. Esforço repetitivo é fonte de problemas de ligamento ou musculares. Faça pausas de acordo com o programado.</description>
+		<image>faca-intervalos-regulares.jpg</image>
+	</item>
+	<item>
+		<title>Utilize as ferramentas da forma correta</title>
+		<description>Além de utilizar cada ferramenta para seu devido fim, evite improvisar. Caso isso ocorra, o resultado do serviço pode não ser o esperado e ainda acidentes podem ocorrer.</description>
+		<image>utilize-as-ferramentas-da-forma-correta.jpg</image>
+	</item>
+	<item>
+		<title>Tenha seriedade no trabalho</title>
+		<description>O ambiente de trabalho não é local para brincadeiras. Deixe-as para um momento de pausa e evite problemas desnecessários de desatenção.</description>
+		<image>tenha-seriedade-no-trabalho.jpg</image>
+	</item>
+	<item>
+		<title>Mantenha saídas e passagens desobstruídas</title>
+		<description>A livre movimentação facilita as equipes de socorro e a evacuação de locais comprometidos. Siga as normas e também não obstrua o alcance aos extintores e mangueiras.</description>
+		<image>mantenha-saidas-e-passagens-desobstruidas.jpg</image>
+	</item>
+	<item>
+		<title>Atenha-se à sua especialidade</title>
+		<description>Se você é eletricista, não tente fazer um serviço de mecânico, você deve ter consciência do risco que isso acarreta.</description>
+		<image>atenha-se-a-sua-especialidade.jpg</image>
+	</item>
+	<item>
+		<title>Respeite as proteções das máquinas</title>
+		<description>Não retire os Equipamentos de Proteção Coletiva das máquinas e equipamentos, eles protegem você e demais trabalhadores simultaneamente.</description>
+		<image>respeite-as-protecoes-das-maquinas.jpg</image>
+	</item>
+	<item>
+		<title>Não use acessórios </title>
+		<description>Ainda é comum o uso de anéis e colares nos mais diversos setores. Atente-se também para o uso de luvas. Há situações em que a operação de máquinas exige que seja feita sem esse EPI.</description>
+		<image>nao-use-acessorios.jpg</image>
+	</item>
+	<item>
+		<title>Oriente sobre os riscos</title>
+		<description>Oriente os novos colaboradores sobre os riscos das atividades.</description>
+		<image>oriente-sobre-os-riscos.jpg</image>
+	</item>
+	<item>
+		<title>Comunique seu superior</title>
+		<description>Se notar falhas na máquina ou equipamento que opera, comunique imediatamente seu superior e solicite manutenção.</description>
+		<image>comunique-seu-superior.jpg</image>
+	</item>
+	<item>
+		<title>Local de trabalho confortável</title>
+		<description>Faça com que o seu local de trabalho seja confortável, propiciando assim mais estímulo e um maior cuidado com as atividades mais perigosas.</description>
+		<image>local-de-trabalho-confortavel.jpg</image>
+	</item>
+	<item>
+		<title>Se informe sobre os riscos</title>
+		<description>Esteja sempre informado quanto aos riscos e cuidados que envolvem as suas atividades e as formas de proteção disponíveis para diminuir esses riscos.</description>
+		<image>se-informe-sobre-os-riscos.jpg</image>
+	</item>
+	<item>
+		<title>Use óculos de proteção</title>
+		<description>Seus olhos não se recuperam depois de perdidos. Use óculos protetores sempre que o seu trabalho exigir.</description>
+		<image>use-oculos-de-protecao.jpg</image>
+	</item>
+	<item>
+		<title>Ferramentas em bom estado</title>
+		<description>Utilize em seus trabalhos ferramentas em bom estado de conservação, para prevenir possíveis acidentes.</description>
+		<image>ferramentas-em-bom-estado.jpg</image>
+	</item>
+	<item>
+		<title>Use touca protetora</title>
+		<description>Hábito de usar cabelos soltos durante o serviço tem dado causa a graves e irreparáveis acidentes. Use touca protetora quando seu trabalho exigir.</description>
+		<image>use-touca-protetora.jpg</image>
+	</item>
+	<item>
+		<title>Procure socorro médico</title>
+		<description>Se você for acidentado, procure logo o socorro médico adequado. Não deixe que "entendidos" e "curiosos" concorram para o agravamento de sua lesão.</description>
+		<image>procure-socorro-medico.jpg</image>
+	</item>
+	<item>
+		<title>Conheça as regras de segurança</title>
+		<description>Conheça sempre as regras de segurança da seção onde você trabalha. Leia e reflita sempre os ensinamentos contidos nos cartazes e avisos sobre prevenção de acidentes. </description>
+		<image>conheca-as-regras-de-seguranca.jpg</image>
+	</item>
+	<item>
+		<title>Evite se distrair</title>
+		<description>Conversa e discussão no trabalho predispõem a acidentes pela desatenção.</description>
+		<image>evite-se-distrair.jpg</image>
+	</item>
+	<item>
+		<title>Desligue a máquina para reparos</title>
+		<description>Pare a máquina quando tiver que consertá-la ou lubrificá-la.</description>
+		<image>desligue-a-maquina-para-reparos.jpg</image>
+	</item>
+	<item>
+		<title>Direitos e obrigações</title>
+		<description>Se informe sobre seus direitos e obrigações relacionados à segurança no trabalho.</description>
+		<image>direitos-e-obrigacoes.jpg</image>
+	</item>
+	<item>
+		<title>Rotas de saída</title>
+		<description>Tenha o costume de identificar as rotas de saída em todos os ambientes.</description>
+		<image>rotas-de-saida.jpg</image>
+	</item>
+	<item>
+		<title>Saiba utilizar os equipamentos de socorro </title>
+		<description>Não é preciso que o colaborador faça parte da brigada anti-incêndio para saber operar um extintor. Ainda, não basta saber operá-lo, e sim entender que existe um tipo adequado para cada situação.</description>
+		<image>saiba-utilizar-os-equipamentos-de-socorro.jpg</image>
+	</item>
+	<item>
+		<title>A pressa é companheira dos acidentes</title>
+		<description>Faça tudo com tempo para trabalhar bem e com segurança. Evite a pressa, ela é “inimiga da perfeição”, além de se expor ao nível de risco maior, seu trabalho não terá uma boa qualidade.</description>
+		<image>a-pressa-e-companheira-dos-acidentes.jpg</image>
+	</item>
+</root>
