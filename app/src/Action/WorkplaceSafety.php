@@ -64,6 +64,6 @@ final class WorkplaceSafety
      */
     public function getPathImages()
     {
-        return 'http://' . $_SERVER['HTTP_HOST'] . '/data/images/';
+        return 'http://' . $_SERVER['HTTP_HOST'] . '/trabalhe_com_seguranca/data/images/';
     }
 }
