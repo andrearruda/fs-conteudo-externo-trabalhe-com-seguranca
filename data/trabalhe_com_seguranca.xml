@@ -147,7 +147,7 @@
 	</item>
 	<item>
 		<title>Rotas de saída</title>
-		<description>Tenha o costume de identificar as rotas de saída em todos os ambientes.</description>
+		<description>Se informe sobre as rotas de saídas de emergência em todos os ambientes.</description>
 		<image>rotas-de-saida.jpg</image>
 	</item>
 	<item>
@@ -159,5 +159,125 @@
 		<title>A pressa é companheira dos acidentes</title>
 		<description>Faça tudo com tempo para trabalhar bem e com segurança. Evite a pressa, ela é “inimiga da perfeição”, além de se expor ao nível de risco maior, seu trabalho não terá uma boa qualidade.</description>
 		<image>a-pressa-e-companheira-dos-acidentes.jpg</image>
+	</item>
+	<item>
+		<title>Limites de velocidade</title>
+		<description>Respeite os limites de velocidade dentro da empresa e nunca tome atalhos.</description>
+		<image>limites-de-velocidade.jpg</image>
+	</item>
+	<item>
+		<title>Cursos de prevenção</title>
+		<description>Participe de atividades e cursos de prevenção de acidentes sempre que a empresa os promover.</description>
+		<image>cursos-de-prevencao.jpg</image>
+	</item>
+	<item>
+		<title>Medidas de prevenção</title>
+		<description>Procure aplicar as medidas e dispositivos de prevenção de acidentes de trabalho.</description>
+		<image>medidas-de-prevencao.jpg</image>
+	</item>
+	<item>
+		<title>Mantenha uma postura adequada</title>
+		<description>Se trabalhar muitas horas sentado, mantenha uma postura adequada. Faça pequenas pausas em cada 2 horas.</description>
+		<image>mantenha-uma-postura-adequada.jpg</image>
+	</item>
+	<item>
+		<title>Pergunte sempre</title>
+		<description>Quando não souber ou tiver dúvida sobre algum serviço, pergunte ao seu chefe ou encarregado, para prevenir-se contra possíveis acidentes.</description>
+		<image>pergunte-sempre.jpg</image>
+	</item>
+	<item>
+		<title>Segurança de todos</title>
+		<description>Coopere com seus companheiros em benefício da segurança de todos e siga os conselhos de seu chefe ou encarregado ou líder.</description>
+		<image>seguranca-de-todos.jpg</image>
+	</item>
+	<item>
+		<title>Primeiros socorros</title>
+		<description>Saiba como fazer os primeiros socorros básicos, mas sempre consciente de que existem pessoas especializadas para tal situação.</description>
+		<image>primeiros-socorros.jpg</image>
+	</item>
+	<item>
+		<title>Não fume</title>
+		<description>Não fume em locais proibidos, procure os locais destinados para tal.</description>
+		<image>nao-fume.jpg</image>
+	</item>
+	<item>
+		<title>Faça checklist</title>
+		<description>Confira sua máquina ou equipamento de trabalho antes de iniciar suas atividades através do check list.</description>
+		<image>faca-checklist.jpg</image>
+	</item>
+	<item>
+		<title>Seja cuidadoso</title>
+		<description>Antes de se sentar, verifique a firmeza e a posição das cadeiras.</description>
+		<image>seja-cuidadoso.jpg</image>
+	</item>
+	<item>
+		<title>Seja responsável</title>
+		<description>Não deixe objetos caídos no chão, alguém pode se machucar, seja responsável.</description>
+		<image>seja-responsavel.jpg</image>
+	</item>
+	<item>
+		<title>Invista em Treinamento</title>
+		<description>O treinamento é a melhor maneira de conheçer a função que será exercida, garantindo que estará preparado para executar o trabalho, sem oferecer riscos ou prejuízos à equipe e ao empregador.</description>
+		<image>invista-em-treinamento.jpg</image>
+	</item>
+	<item>
+		<title>Condições de trabalho</title>
+		<description>O gestor deve comunicar o colaborador sobre os riscos relativos à função e ao espaço em que ele irá operar, através de avisos em murais, e sinalizações nos equipamentos e em todo o ambiente.</description>
+		<image>condicoes-de-trabalho.jpg</image>
+	</item>
+	<item>
+		<title>Evite executar atividades avulsas</title>
+		<description>Fazer coisas as quais você não está habituado pode ser um problema, considerando sua inexperiência no assunto e o consequente improviso na ação. </description>
+		<image>evite-executar-atividades-avulsas.jpg</image>
+	</item>
+	<item>
+		<title>Não obstrua acessos</title>
+		<description>Não obstrua o acesso aos equipamentos de emergências (Macas, Extintores, etc.)</description>
+		<image>nao-obstrua-acessos.jpg</image>
+	</item>
+	<item>
+		<title>Siga os procedimentos</title>
+		<description>Sempre siga os procedimentos de segurança com atenção aos detalhes.</description>
+		<image>siga-os-procedimentos.jpg</image>
+	</item>
+	<item>
+		<title>Seguraça no trabalho</title>
+		<description>Sua segurança é sua responsabilidade.</description>
+		<image>seguraca-no-trabalho.jpg</image>
+	</item>
+	<item>
+		<title>Sinalizações de segurança</title>
+		<description>Obedeça às sinalizações de segurança, etiquetas, tickets e etc.</description>
+		<image>sinalizacoes-de-seguranca.jpg</image>
+	</item>
+	<item>
+		<title>Evite repetir o erro</title>
+		<description>Todo o acidente tem uma causa que é preciso ser pesquisada, para evitar a sua repetição.</description>
+		<image>evite-repetir-o-erro.jpg</image>
+	</item>
+	<item>
+		<title>Conheça os riscos</title>
+		<description>Conheça os riscos das atividades que desenvolve e quais as formas de proteção para reduzir esses riscos.</description>
+		<image>conheca-os-riscos.jpg</image>
+	</item>
+	<item>
+		<title>Não improvise</title>
+		<description>Siga rigorosamente os procedimentos operacionais, não improvise e na dúvida PARE.</description>
+		<image>nao-improvise.jpg</image>
+	</item>
+	<item>
+		<title>A CIPA cuida não só da saúde física</title>
+		<description>Cuida também da saúde mental e bem-estar, fazendo campanhas de conscientização, feiras de saúde, palestras, etc. Conheça um pouco mais sobre as ações realizadas no seu local de trabalho.</description>
+		<image>a-cipa-cuida-nao-so-da-saude-fisica.jpg</image>
+	</item>
+	<item>
+		<title>Tenha um boa noite de sono</title>
+		<description>Acidentes podem ocorrer por fadiga, por não ter dormido o suficiente ou quando se trabalha por turnos, em especial se o trabalho incluir lidar com máquinas perigosas.</description>
+		<image>tenha-um-boa-noite-de-sono.jpg</image>
+	</item>
+	<item>
+		<title>Alimente-se bem</title>
+		<description>A falta de alimentação adequada que pode provocar desmaios, podendo causar um acidente de trabalho, sendo assim, alimente-se bem.</description>
+		<image>alimente-se-bem.jpg</image>
 	</item>
 </root>

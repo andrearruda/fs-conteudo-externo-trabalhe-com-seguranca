@@ -26,10 +26,16 @@ final class WorkplaceSafety
             $json = json_decode(json_encode(simplexml_load_file($this->getFileXML())), true);
             $json = $json['item'];
 
+            if(count($json) < $amount)
+            {
+                $amount = count($json);
+            }
+
             $data = array();
             for($i = 0; $i < $amount; $i++)
             {
-                $indice = rand(0, (count($json)-1));
+//                $indice = rand(0, (count($json)-1));
+                $indice = $i;
                 $data[] = array(
                     'title' => $json[$indice]['title'],
                     'description' => $json[$indice]['description'],
@@ -37,7 +43,7 @@ final class WorkplaceSafety
                 );
 
                 unset($json[$indice]);
-                shuffle($json);
+//                shuffle($json);
             }
 
             FileSystemCache::store($key, $data, 259200);
