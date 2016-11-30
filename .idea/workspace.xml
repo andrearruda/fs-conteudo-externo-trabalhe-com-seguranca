@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ec3b5c-938c-4b5d-acfe-5557d94717ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/alimente-se-bem.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/condicoes-de-trabalho.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/conheca-os-riscos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/cursos-de-prevencao.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/evite-executar-atividades-avulsas.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/evite-repetir-o-erro.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/faca-checklist.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/invista-em-treinamento.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/limites-de-velocidade.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/mantenha-uma-postura-adequada.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/medidas-de-prevencao.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/nao-fume.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/nao-improvise.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/nao-obstrua-acessos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/pergunte-sempre.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/primeiros-socorros.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/seguranca-de-todos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/seja-cuidadoso.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/seja-responsavel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/siga-os-procedimentos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/sinalizacoes-de-seguranca.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/tenha-um-boa-noite-de-sono.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/trabalhe_com_seguranca.xlsx" afterPath="$PROJECT_DIR$/data/trabalhe_com_seguranca.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/images/a-cipa-cuida-nao-so-da-saude-fisica.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/Action/WorkplaceSafety.php" afterPath="$PROJECT_DIR$/app/src/Action/WorkplaceSafety.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/trabalhe_com_seguranca.xml" afterPath="$PROJECT_DIR$/data/trabalhe_com_seguranca.xml" />
     </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +23,20 @@
     <favorites_list name="www" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="WorkplaceSafety.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/Action/WorkplaceSafety.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="e#30#52#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -235,7 +224,7 @@
       <workItem from="1480075022618" duration="426000" />
       <workItem from="1480426881861" duration="1174000" />
       <workItem from="1480444656617" duration="103000" />
-      <workItem from="1480517572815" duration="197000" />
+      <workItem from="1480517572815" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="ajustes">
       <created>1480075391290</created>
@@ -244,11 +233,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480075391290</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajustes">
+      <created>1480517794827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480517794827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4934000" />
+    <option name="totallyTimeSpent" value="5186000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,7 +354,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/Action/WorkplaceSafety.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="221">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
             <element signature="e#30#52#0#PHP" expanded="true" />
